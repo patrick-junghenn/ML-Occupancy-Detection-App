@@ -3,6 +3,8 @@ This application utilizes machine learning to predict if a space is occupied or 
 
 The application gives the user a variety of machine learning algorithms to choose from. Each algorithm includes the appropriate hyperparameters, which can be modified by the user.
 
+The folder "Demo-images" contains screenshots of the application and its features.
+
 ## Application
 This folder contains the codes needed to run the occupancy detection application.
 
