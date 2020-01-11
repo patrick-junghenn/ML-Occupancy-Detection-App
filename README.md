@@ -11,17 +11,17 @@ To successfully run the application, use a python 3.7 interpreter.
 
 This application requires the following libraries:
 
-  sys
-  pandas
-  numpy
-  sklearn
-  Matplotlib
-  PyQt5
-  pydotplus
-  xgboost
-  webbrowser
-  random
-  warnings
+  * sys
+  * pandas
+  * numpy
+  * sklearn
+  * Matplotlib
+  * PyQt5
+  * pydotplus
+  * xgboost
+  * webbrowser
+  * random
+  * warnings
 
 ### Running GUI
 To run this project, clone the repository and run the occupancy-detection-app.py file located in the Application folder. Be sure that occupancy-data.csv is in the Application folder as well. When the application is executed, a window describing its layout and features will be shown. All of the features are located in the menu bar, along the top of the screen.
@@ -36,12 +36,12 @@ This menu selection tab contains the machine learning models available for use. 
 
 Available Models:
 
-  Decision Tree
-  Random Forest
-  Logistic Regression
-  K-nearest Neighbors
-  XGBoost
-  AdaBoost
+  * Decision Tree
+  * Random Forest
+  * Logistic Regression
+  * K-nearest Neighbors
+  * XGBoost
+  * AdaBoost
   
 ### Predict Occupancy Status
 This window allows a user to input raw data to make real-time predictions about the occupancy of an area.
