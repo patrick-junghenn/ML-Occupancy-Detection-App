@@ -26,6 +26,7 @@ This application requires the following libraries:
 ### Running GUI
 To run this project, clone the repository and run the occupancy-detection-app.py file located in the Application folder. Be sure that occupancy-data.csv is in the Application folder as well. When the application is executed, a window describing its layout and features will be shown. All of the features are located in the menu bar, along the top of the screen.
 
+![](patrick-junghenn/ML-Occupancy-Detection-App/Demo-pics/
 
 ## Tools & Features
 ### Analyze Distribution
