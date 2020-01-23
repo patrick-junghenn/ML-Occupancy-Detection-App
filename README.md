@@ -45,4 +45,4 @@ Available Models:
   * AdaBoost
   
 ### Predict Occupancy Status
-This window allows a user to input raw data to make real-time predictions on if a space is occupied or vacant.
+This window allows a user to input raw data to make real-time predictions.
