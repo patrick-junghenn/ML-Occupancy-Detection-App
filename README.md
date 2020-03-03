@@ -1,7 +1,7 @@
 # Occupancy Detection Application
 This application utilizes machine learning to predict if a space is occupied or vacant. By taking measurements of temperature, CO2, humidity, humidity ratio, and light from the local environment, the application can make inferences as to whether a space is occupied or vacant. 
 
-This application gives a user a variety of machine learning algorithms to choose from. Each algorithm includes the appropriate hyperparameters, which can be modified by the user.
+This application gives the user a variety of machine learning algorithms to choose from. Each algorithm includes the appropriate hyperparameters, which can be modified by the user.
 
 The folder "Demo-images" contains screenshots of the application and its features.
 
